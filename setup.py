@@ -7,3 +7,4 @@ setup(
     author='Raphoum',
     license='MIT',
     long_description=open('README.md').read(),)
+#fartyfart
