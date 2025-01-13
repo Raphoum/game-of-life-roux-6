@@ -60,6 +60,8 @@ def update_grid(grid):
 
     return new_grid
 
+#salam ginger
+
 def main():
     """Runs the Game of Life simulation."""
     rows, cols = 20, 40  # Size of the grid
