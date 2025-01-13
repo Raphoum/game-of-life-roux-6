@@ -2,6 +2,8 @@ import numpy as np
 import time
 import os
 
+#heyy giiirl
+
 def clear_console():
     """Clears the console output."""
     os.system('cls' if os.name == 'nt' else 'clear')
